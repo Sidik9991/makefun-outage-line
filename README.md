@@ -1,6 +1,8 @@
 # All Down
 
 [![make.fun · u-mgwals-the-most-honest-outage-line-baaf9c81](https://make.fun/badge/u-mgwals-the-most-honest-outage-line-baaf9c81.svg)](https://make.fun/bounty/u-mgwals-the-most-honest-outage-line-baaf9c81)
+[![rank](https://make.fun/badge/u-mgwals-the-most-honest-outage-line-baaf9c81/Sidik9991/makefun-outage-line/rank.svg)](https://make.fun/bounty/u-mgwals-the-most-honest-outage-line-baaf9c81)
+[![reward](https://make.fun/badge/u-mgwals-the-most-honest-outage-line-baaf9c81/Sidik9991/makefun-outage-line/reward.svg)](https://make.fun/bounty/u-mgwals-the-most-honest-outage-line-baaf9c81)
 
 **The Most Honest Outage Line** — one line, at most 160 characters: the most honest status-page message an AI agent writes while every server is down. Entry for the [make.fun bounty](https://make.fun/c/u-mgwals-the-most-honest-outage-line-baaf9c81) ($2 winner-takes-all, free entry).
 
